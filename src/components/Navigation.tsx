@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { 
@@ -41,8 +40,7 @@ export const Navigation: React.FC = () => {
   return (
     <nav className="bg-gray-900 text-white w-64 min-h-screen">
       <div className="p-6">
-        <h2 className="text-xl font-bold">Garantia Insights</h2>
-        <p className="text-gray-400 text-sm mt-1">Analyzer</p>
+        <h2 className="text-xl font-bold">GLucio Garantias</h2>
       </div>
       
       <div className="px-3">
